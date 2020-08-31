@@ -4,10 +4,14 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+My name is Clive from Auckland, New Zealand. 
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I have a Degree in Mechanical Engineering and in Economics. I have spent till now as an Engineer who has worked exentensively in Heavy Industry (Oil+Gas / Thermal Power Plants) and some work in the Dairy Industry in Fast Moving Consumer Goods (FMCG). 
 
+I followed advances in ML / AI over the last few years but was really pushed over the edge by fast.ai which made the process of learning accessible. Python and pytorch were a steep learning curve but being able to replicate, adapt and generate ideas into code has become a passion. 
 
+I have four kids who are as passionately bored of my ML / AI converations but the virtual ML community and hopefully this blog will fill this void.
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+The focus in this blog will be to record some areas of interest and maybe explain a bit of theory. Hopefully I will look back with embarassment at my early posts as I improve in both code and writing ability.
+
+I am very happy to receive constructive feedback. Please feel free to reach out to me via twitter.
